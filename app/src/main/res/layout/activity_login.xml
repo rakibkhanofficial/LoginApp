@@ -127,7 +127,7 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     android:textColor="#000"
                     android:textSize="18sp"
-                    android:text="Already have an account?"
+                    android:text="Don't have an account?"
                     />
 
                 <Button
