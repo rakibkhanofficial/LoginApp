@@ -4,7 +4,6 @@
 <p align="center">
 This project is basically an android app which is an LoginUI App using java Programming language .
 </p>
-![](https://github.com/rakibkhanofficial/LoginApp/blob/master/loginapp.png)
 <p align="center">
 <a href="https://github.com/Rakib00111/github-profile-readme-generator/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/Rakib00111/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
@@ -34,3 +33,4 @@ This project is basically an android app which is an LoginUI App using java Prog
 ## Auther
 Rakib_khan || khanrakib218@gmail.com
 ![](https://camo.githubusercontent.com/26c1e0553bf128b3767d611930e554e52b193012eab6e55e7e2d692c2b13ba1e/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f72616b69626b68616e6f6666696369616c2f636f756e742e737667)
+![](https://github.com/rakibkhanofficial/LoginApp/blob/master/loginapp.png)
